@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">First Responders</string>
+
+    <string-array name="activities">
+        <item>None</item>
+        <item>Celebratory Fist Pump</item>
+        <item>High Wave</item>
+        <item>Hand Shake</item>
+        <item>Fist Bump</item>
+        <item>Low Wave</item>
+        <item>Point Straight</item>
+        <item>Point Left</item>
+        <item>Point Right</item>
+        <item>Point Up</item>
+        <item>Motion Over</item>
+        <item>High-Five</item>
+        <item>Applause-Clap</item>
+        <item>Whistling</item>
+        <item>Shoulder radio</item>
+        <item>Eating</item>
+        <item>Smoking</item>
+        <item>Bandage Wound</item>
+        <item>Blood Pressure cuff</item>
+        <item>Reach in Pocket</item>
+        <item>Check Pupils</item>
+        <item>Other</item>
+    </string-array>
+</resources>
