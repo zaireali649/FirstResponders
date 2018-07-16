@@ -124,6 +124,8 @@ public class CollectBandService extends Service {
         Toast.makeText(this, "Service Started", Toast.LENGTH_SHORT).show();
         name = intent.getStringExtra("uID");
 
+        
+
         prefs = getSharedPreferences("MyPrefs", Context.MODE_MULTI_PROCESS);
         SharedPreferences.Editor editor = prefs.edit();
         editor.putString("activity","None");
